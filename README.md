@@ -1,12 +1,12 @@
-### Hi there 👋
+# Hi there 👋
 
 ## Summary
 
-Computer Science graduate student with a background in Music Education and Composition. Passionate about technology, education, and the intersection of music and programming.
+I'm a Computer Science graduate student with a background in Music Education and Composition. Passionate about technology, education, and the intersection of music and programming.
 
-- 🌱 I’m currently exploring topics in Machine Learning and LLMs.
+- 🌱 Currently exploring topics in Machine Learning and LLMs.
 - 👯 Seeking opportunities to contribute to innovative projects in computer science and music.
-- 📫 Reach me on LinkedIn: linkedin.com/in/fruzsinaladanyi/
+- 📫 Reach me on LinkedIn: [linkedin.com/in/fruzsinaladanyi/](https://www.linkedin.com/in/fruzsinaladanyi/)
 
 ## Programming Languages
 
