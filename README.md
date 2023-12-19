@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**ladalar/ladalar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Summary
 
-Here are some ideas to get you started:
+Computer Science graduate student with a background in Music Education and Composition. Passionate about technology, education, and the intersection of music and programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently exploring topics in Machine Learning and LLMs.
+- 👯 Seeking opportunities to contribute to innovative projects in computer science and music.
+- 📫 Reach me on LinkedIn: linkedin.com/in/fruzsinaladanyi/
+
+## Programming Languages
+
+- **Proficient:** C++, C
+- **Familiar with:** R, Python
+
+Feel free to reach out for collaboration opportunities or to discuss projects related to computer science and music!
