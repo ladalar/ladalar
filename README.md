@@ -11,6 +11,6 @@ I'm a Computer Science graduate student with a background in Music Education and
 ## Programming Languages
 
 - **Proficient:** C++, C, R
-- **Familiar with:** Python
+- **Familiar with:** Python, Verilog
 
 Feel free to reach out for collaboration opportunities or to discuss projects related to computer science and music!
