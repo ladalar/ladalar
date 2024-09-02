@@ -4,7 +4,7 @@
 
 I'm a Computer Science graduate student with a background in Music Education and Composition. Passionate about technology, education, and the intersection of music and programming.
 
-- 🌱 Currently exploring topics in ML, and NLP.
+- 🌱 Currently exploring topics in ML.
 - 👯 Seeking opportunities to contribute to innovative projects in computer science and music.
 - 📫 Reach me on LinkedIn: [linkedin.com/in/fruzsinaladanyi/](https://www.linkedin.com/in/fruzsinaladanyi/)
 
